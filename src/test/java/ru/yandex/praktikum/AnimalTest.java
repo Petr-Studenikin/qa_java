@@ -1,6 +1,6 @@
 package ru.yandex.praktikum;
 
-import junit.framework.TestCase;
+
 import org.junit.Test;
 import org.junit.Before;
 import static org.assertj.core.api.Assertions.assertThat;
